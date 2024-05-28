@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
 public class Gurutest {
-// testing the github	
+// testing 
 	WebDriver driver;
 	
 	@Test
